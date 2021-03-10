@@ -4,7 +4,6 @@
 #Create a CV containing the information of the 5 created people.
 #Print the information on CVs created on the screen.
 
-
 cv_1 = {'name':'Jane Bergham','jobtitle':'IOS Developer','yearsofexperience':'5','currentcompany':'Amazon','lastgradschool':'University of Waterloo'}
 cv_2 = {'name':'Rob River','jobtitle':'Unity Developer','yearsofexperience':'3','currentcompany':'Ubisoft','lastgradschool':'University of British Columbia'}
 cv_3 = {'name':'Amanda Riley','jobtitle':'Data Scientist','yearsofexperience':'3','currentcompany':'Udemy','lastgradschool':'University of California, Berkeley'}
