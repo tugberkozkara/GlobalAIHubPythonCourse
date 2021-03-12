@@ -13,7 +13,7 @@ Quiz1 - 90/100
 Quiz2 - 90/100  
 Quiz3 - 90/100  
 Quiz4 - could not send  
-Quiz5 - ../100  
+Quiz5 - 80/100  
 
 ## Requirements
 ```
